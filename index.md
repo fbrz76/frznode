@@ -3,11 +3,11 @@ title: Home
 layout: home
 ---
 
-# [Home] (index.md)
+# [Home](index.md)
 
-# [Projects] (projects/index.md)
+# [Projects](projects/index.md)
 
-# [About] 
+# [About]
 
 ----
 
