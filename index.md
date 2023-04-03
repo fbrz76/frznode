@@ -1,4 +1,6 @@
 ---
+logo: "/assets/images/just-the-docs.png"
+favicon_ico: "/assets/images/favicon.ico"
 title: Home
 layout: home
 ---
